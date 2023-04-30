@@ -17,8 +17,8 @@
       "year": "2018",
       "weight": 1860,
       "image": [
-        "http://localhost:3000/images/kore/kore-top.webp",
-        "http://localhost:3000/images/kore/kore-zoom.jpeg"
+        "https://mikes-ski-finder.netlify.app/images/kore/kore-top.webp",
+        "https://mikes-ski-finder.netlify.app/images/kore/kore-zoom.jpeg"
       ],
       "content": "As the ultimate lightweight freeride ski, the KORE 105 has versatility for all-mountain adventures. The KORE construction reduces weight without sacrificing performance, thanks to a combination of Graphene, Karuba wood and multi layers of carbon. The sandwich sidewall construction adds responsiveness on hardpack snow, and tip and tail rocker provides flotation for deep days.",
       "stokeProfile": {
